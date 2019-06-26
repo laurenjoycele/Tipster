@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		979A6D8E22C2F373002C260B /* blueBackground.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 979A6D8D22C2F373002C260B /* blueBackground.jpg */; };
 		97B49CF422C2CAA8009EEAD2 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 97B49CF322C2CAA8009EEAD2 /* AppDelegate.m */; };
 		97B49CF722C2CAA8009EEAD2 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 97B49CF622C2CAA8009EEAD2 /* ViewController.m */; };
 		97B49CFA22C2CAA8009EEAD2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 97B49CF822C2CAA8009EEAD2 /* Main.storyboard */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		979A6D8D22C2F373002C260B /* blueBackground.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = blueBackground.jpg; path = ../../../Downloads/blueBackground.jpg; sourceTree = "<group>"; };
 		97B49CEF22C2CAA8009EEAD2 /* Tipster.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Tipster.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		97B49CF222C2CAA8009EEAD2 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		97B49CF322C2CAA8009EEAD2 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -101,6 +103,7 @@
 		97B49CF122C2CAA8009EEAD2 /* Tipster */ = {
 			isa = PBXGroup;
 			children = (
+				979A6D8D22C2F373002C260B /* blueBackground.jpg */,
 				97B49CF222C2CAA8009EEAD2 /* AppDelegate.h */,
 				97B49CF322C2CAA8009EEAD2 /* AppDelegate.m */,
 				97B49CF522C2CAA8009EEAD2 /* ViewController.h */,
@@ -236,6 +239,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				97B49CFF22C2CAA8009EEAD2 /* LaunchScreen.storyboard in Resources */,
+				979A6D8E22C2F373002C260B /* blueBackground.jpg in Resources */,
 				97B49CFC22C2CAA8009EEAD2 /* Assets.xcassets in Resources */,
 				97B49CFA22C2CAA8009EEAD2 /* Main.storyboard in Resources */,
 			);
